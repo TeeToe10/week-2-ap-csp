@@ -20,14 +20,17 @@ print(500 + 55)
 ##############################################################################################################
 # Find 3 objects around the room and create variables from it,
 # Insert those variables into an f-string sentence(look at slide 22)in repl.it
-
+obj1 = "Keyboard"
+obj2 = "clock"
+obj3 = "mouse"
+print("Looking at my computer science class I see " + obj1 + " then I look up to see " + obj2 + " then i grab my " + obj3)
 
 # Familiarize yourself with the syntax of the print() function.
-# Print your name.
-# Print today's date.
-# Print the name of your favorite movie.
+print("Tito") # Print your name. 
+print(10/28/2025) # Print today's date.
+print("The Amazing Spider-Man") # Print the name of your favorite movie.
 
-# Print your name and age on separate lines using a single print() function.
+print# Print your name and age on separate lines using a single print() function. 
 # Use f-strings to print a message like: "In 10 years, [Your Name] will be [Your Age + 10] years old."
 
 ##############################################################################################################
@@ -56,8 +59,8 @@ print(500 + 55)
 # string index the word beetle and print it out
 # print the last word of the summary
 # print the summary in reverse
-
-
+blue_beetle_summary = "Jaime Reyes suddenly finds himself in possession of an ancient relic of alien biotechnology called the Scarab. When the Scarab chooses Jaime to be its symbiotic host, he's bestowed with an incredible suit of armor that's capable of extraordinary and unpredictable powers, forever changing his destiny as he becomes the superhero Blue Beetle."
+print("Length of blue beetle summary :", len(blue_beetle_summary))
 ##########################input practice#############################################
 #input is when we ask the user for input/data
 # Ask the user to enter their name.
