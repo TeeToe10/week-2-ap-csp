@@ -33,10 +33,10 @@ print(num3 + num4)
 
 #  Step 4: User Input Practice
 # Ask the user two questions and combine answers
-
-
-
+favorite_movie = input("Whats your favorite movie?")
+favorite_snack = input("Whats your favorite snack?")
+print(f"{favorite_movie} and {favorite_snack}")
 
 # ⚙️ Step 5: Final Challenge (combine it all)
 # Use math and strings together
-
+print(f"what is the sum of  "))
