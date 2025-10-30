@@ -37,6 +37,10 @@ print("Is Uppercase?", phrase2.isupper())
 # # Find the length of the string
 # print("Length of phrase:", len(phrase))  # Output: 14
 
+
+
+declaration_of_independence = "The unanimous Declaration of the thirteen united States of America, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation."
+print(len(declaration_of_independence))
 # # ----------------------------------------
 # # 3. Indexing and Slicing
 # # ----------------------------------------
